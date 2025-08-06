@@ -1,0 +1,6 @@
+requests         # For making HTTP requests to CoinGecko API
+pandas           # For data manipulation and analysis
+numpy            # For numerical operations and correlation calculations
+matplotlib       # For plotting heatmaps
+seaborn          # For enhanced heatmap visualization
+python-dotenv    # For managing API keys and environment variables
